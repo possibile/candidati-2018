@@ -20,6 +20,7 @@ var why_url = "docs/why.html";
 
 var issues_url = "docs/my_issues.html";
 
+
 // Viva Paremetri
 var viva_url = "http://testviva.possibile.com/";
 // var viva_url = "https://viva.possibile.com/"; //viva richiede https !!!
@@ -27,7 +28,9 @@ var donation_id = 1;
 var group_id = 376;
 
 
-// Viva Link
+// Padametri Raccolta Fondi
+var iban_numeber = "2845792384759284759";
+var iban_name = "dicitura completa del conto corrente";
 var donation_url = "https://viva.possibile.com/backoffice/user_frm_donation.php?id_crowdfunding="+ donation_id;
 
 

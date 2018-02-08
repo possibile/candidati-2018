@@ -9,6 +9,9 @@ function initPage() {
     $("#bio_long_text").attr('w3-include-html',bio_long_url);
     $(".box-profile").css('background-image','url("' + candidato_img_url + '")');
     $(".donation-link").attr('href',donation_url);
+	$("#iban_numeber").text(iban_numeber);
+	$("#iban_name").text(iban_name);
+	
 	show_issues(issues_url);
     show_social();
     
