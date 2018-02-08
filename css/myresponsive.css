@@ -1,0 +1,163 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 7, 2018, 7:23:45 PM
+    Author     : dario.valeri
+*/
+
+@media screen and (max-width: 340px){
+  a.navbar-brand {
+    width: 85% !important;
+    margin:0 !important;
+  }  
+   h1.nome_candidato {
+    font-size: 20px !important;
+   }
+   .nav-link{line-height:0.5 !important;}
+   .box-agenda{padding: 50px 20px !important;}
+   .page-box{
+       margin-top: 50px !important;
+       position: relative !important;
+       width: 100% !important;
+   }
+   .scroll-to-top{display:none !important;}
+}
+
+
+@media screen and (max-width: 600px){
+    
+    .mob-only{display:block;}
+    
+    h1.nome_candidato {
+    display: inline-block;
+    font-size: 25px;
+    width: 70%;
+    text-align: left;
+    margin-top: 10px;
+    white-space: initial !important;
+    }
+   
+    header.masthead{
+        margin-top:60px !important;
+    }    
+header.masthead .social-info {
+    display: none;
+}
+
+.mob-only.social-info{
+    padding:30px 0;
+}
+#mainNav{
+    padding:0 25px !important;
+}
+.fixed-top{
+    height:60px;
+}
+
+a.navbar-brand {
+    width: 87%;
+    margin:0 !important;
+}
+
+a.navbar-brand img {
+    width: 25%;
+    margin: 0 auto -30px;
+    padding:0 !important;
+}
+.navbar .container{
+    top: 0;
+    position: absolute;
+    background: white;
+    width: 100%;
+    left: 0;
+    padding:0px 20px !important;
+    text-align:center;
+}
+
+h2#slogan {
+    font-size: 28px;
+}
+
+.box-slogan {
+    padding: 25px 50px;
+}
+
+h2#slogan:before {
+    font-size: 17px;
+}
+
+.box-profile {
+    margin: -23px auto 20px !important;
+    height: 150px;
+    width: 150px;
+    border: 5px solid white;
+}
+
+header.masthead
+ * {
+    text-align: center;
+}
+
+img.scheda {
+    margin-top:  0;
+    /* margin-bottom: -200px; */
+}
+
+.masthead .nome_candidato {
+    float: none;
+    font-size: 35px;
+    margin: 0 0 14px 0;
+}
+
+.container {
+    padding: 0 25px !important;
+}
+
+.col2 {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+}
+
+
+#why .donation-link {
+    font-size: 12px;
+}
+
+h4.panel-title {
+    font-size: 25px;
+    border-bottom: 1px solid #ccc;
+    padding: 15px;
+}
+
+a.extern-link {
+    display: flex;
+}
+
+div#map {
+    display: none;
+}
+
+.box-agenda {
+    width: 100%;
+    position: relative;
+    left: 0;
+    min-height: 480px;
+}
+#count{
+    display:block;
+}
+
+footer {
+    padding: 25px;
+}
+
+footer .box-profile {
+    float: left;
+    margin-bottom:  -28px !important;
+}
+    
+}
