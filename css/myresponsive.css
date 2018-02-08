@@ -162,19 +162,30 @@ footer .box-profile {
     
 }
 
-@media screen and (min-width: 600px) and (max-width: 1024px){
+@media screen and (min-width: 993px) and (max-width: 1200px){
     .box-agenda {
-    width: 44%;
-    left: 3%;
-    padding: 25px;
-    top: 25%;
-    min-height: 400px;
+    width: 44% !important;
+    left: 3% !important;
+    padding: 25px !important;
+    top: 25% !important;
+    min-height: 400px !important;
     }
     .page-box {
-    margin-top: 60px;
-    position: relative;
-    width: 100%;
-    bottom: 10%;
+    margin-top: 60px !important;
+    position: relative !important;
+    width: 100% !important;
+    bottom: 10% !important;
+    }
+    
+    .navbar-nav li{
+     margin-right:10px !important; 
+    }
+    .nav-link{
+      font-size: 13px;
+      padding: 20px 0 !important;
+    }
+    h1.nome_candidato {
+        font-size: 25px;
     }
     
 }
