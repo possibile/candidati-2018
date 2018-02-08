@@ -161,3 +161,20 @@ footer .box-profile {
 }
     
 }
+
+@media screen and (min-width: 600px) and (max-width: 1024px){
+    .box-agenda {
+    width: 44%;
+    left: 3%;
+    padding: 25px;
+    top: 25%;
+    min-height: 400px;
+    }
+    .page-box {
+    margin-top: 60px;
+    position: relative;
+    width: 100%;
+    bottom: 10%;
+    }
+    
+}
