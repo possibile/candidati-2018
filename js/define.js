@@ -1,15 +1,15 @@
 // Variabili che definiscono il sito
 
 
-var candidato_nome = "Eulalia Grillo";
-var ruolo = "circoscrizione di Bologna";
+var candidato_nome = "Nome Cognome";
+var ruolo = "Collegio di Bologna - Ferrara";
 var slogan = "Per i molti non per i pochi";
 var candidato_img_url = "/img/profile.png";
 // i link social vengono visualizzati solo se sono valorizzati, altrimenti non verranno visualizzati
 var facebook_link = "https://www.facebook.com/";
-var twitter_link = "";
+var twitter_link = "https://www.twitter.com/";
 var linkedin_link = "https://it.linkedin.com/";
-var wordpress_link = "https://www.possibile.com/author/davide-serafin/"; //link alla pagina autore di Possibile o altro sito personale
+var wordpress_link = "https://www.possibile.com/"; //link alla pagina autore di Possibile o altro sito personale
 var youtube_link = "https://www.youtube.com/"; 
 
 // utility: https://word2cleanhtml.com
@@ -20,11 +20,9 @@ var why_url = "docs/why.html";
 
 var issues_url = "docs/my_issues.html";
 
-var why = "";
-
 // Viva Paremetri
 var viva_url = "http://testviva.possibile.com/";
-var donation_id = 4;
+var donation_id = 1;
 var group_id = 376;
 
 

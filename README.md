@@ -1,4 +1,4 @@
-# [Candidati Liberi e Uguali 2018 - Web page](http://ufficiodelusi.it)
+# [Candidati Liberi e Uguali 2018 - Web page](http://nomecognome.info)
 
 [Possibile](http://possibile.com) mette a disposizione dei candidati delle elezioni Politiche 2018, una pagina web da usare come sito di riferimento del singolo candidato. 
 Per usarla e installarla non sono necessaire particolari conoscenze informatiche.
@@ -24,7 +24,7 @@ Prima di iniziare a pensare a come installare il sito web, per il quale puoi sem
 
 Per usare questo template, semplicemente scarica i file in questo Git
 
-![how-to-download Preview](http://ufficiodelusi.it/img/how-to-download.png)
+![how-to-download Preview](http://nomecognome.info/img/how-to-download.png)
 
 Procedi alla personalizzazione dei parametri, come spiegato nel paragrafo successivo e carica il tutto nella cartella web del tuo dominio.
 Se hai bisogno di aiuto a completare questi passaggi non esitare a contattare [ufficiotecnico@possibile.com](mailto:ufficiotecnico@possibile.com).
