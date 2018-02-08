@@ -22,6 +22,7 @@ var issues_url = "docs/my_issues.html";
 
 // Viva Paremetri
 var viva_url = "http://testviva.possibile.com/";
+// var viva_url = "https://viva.possibile.com/"; //viva richiede https !!!
 var donation_id = 1;
 var group_id = 376;
 
